@@ -11,3 +11,7 @@ body {
     color: #333;
     padding: 20px;
 }
+p{
+    font-family:'Roboto';
+    text-aligin:center;
+}
